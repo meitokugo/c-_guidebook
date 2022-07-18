@@ -1,0 +1,15 @@
+E:\github_file\c#_guidebook\Calculator\bin\Debug\net6.0\Calculator.exe
+E:\github_file\c#_guidebook\Calculator\bin\Debug\net6.0\Calculator.deps.json
+E:\github_file\c#_guidebook\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+E:\github_file\c#_guidebook\Calculator\bin\Debug\net6.0\Calculator.dll
+E:\github_file\c#_guidebook\Calculator\bin\Debug\net6.0\Calculator.pdb
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.dll
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.pdb
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+E:\github_file\c#_guidebook\Calculator\obj\Debug\net6.0\ref\Calculator.dll
