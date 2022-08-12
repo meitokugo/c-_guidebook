@@ -1,0 +1,15 @@
+E:\github_file\c#_guidebook\GenericTest\bin\Debug\net6.0\GenericTest.exe
+E:\github_file\c#_guidebook\GenericTest\bin\Debug\net6.0\GenericTest.deps.json
+E:\github_file\c#_guidebook\GenericTest\bin\Debug\net6.0\GenericTest.runtimeconfig.json
+E:\github_file\c#_guidebook\GenericTest\bin\Debug\net6.0\GenericTest.dll
+E:\github_file\c#_guidebook\GenericTest\bin\Debug\net6.0\GenericTest.pdb
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.csproj.AssemblyReference.cache
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.AssemblyInfoInputs.cache
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.AssemblyInfo.cs
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.csproj.CoreCompileInputs.cache
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.dll
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\refint\GenericTest.dll
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.pdb
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\GenericTest.genruntimeconfig.cache
+E:\github_file\c#_guidebook\GenericTest\obj\Debug\net6.0\ref\GenericTest.dll

@@ -1,0 +1,15 @@
+E:\github_file\c#_guidebook\dictionary\bin\Debug\net6.0\dictionary.exe
+E:\github_file\c#_guidebook\dictionary\bin\Debug\net6.0\dictionary.deps.json
+E:\github_file\c#_guidebook\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+E:\github_file\c#_guidebook\dictionary\bin\Debug\net6.0\dictionary.dll
+E:\github_file\c#_guidebook\dictionary\bin\Debug\net6.0\dictionary.pdb
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.csproj.AssemblyReference.cache
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.dll
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\refint\dictionary.dll
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.pdb
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
+E:\github_file\c#_guidebook\dictionary\obj\Debug\net6.0\ref\dictionary.dll

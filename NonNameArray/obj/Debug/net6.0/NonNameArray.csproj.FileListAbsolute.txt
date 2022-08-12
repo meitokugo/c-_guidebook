@@ -1,0 +1,15 @@
+E:\github_file\c#_guidebook\NonNameArray\bin\Debug\net6.0\NonNameArray.exe
+E:\github_file\c#_guidebook\NonNameArray\bin\Debug\net6.0\NonNameArray.deps.json
+E:\github_file\c#_guidebook\NonNameArray\bin\Debug\net6.0\NonNameArray.runtimeconfig.json
+E:\github_file\c#_guidebook\NonNameArray\bin\Debug\net6.0\NonNameArray.dll
+E:\github_file\c#_guidebook\NonNameArray\bin\Debug\net6.0\NonNameArray.pdb
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.csproj.AssemblyReference.cache
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.AssemblyInfoInputs.cache
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.AssemblyInfo.cs
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.csproj.CoreCompileInputs.cache
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.dll
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\refint\NonNameArray.dll
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.pdb
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\NonNameArray.genruntimeconfig.cache
+E:\github_file\c#_guidebook\NonNameArray\obj\Debug\net6.0\ref\NonNameArray.dll
