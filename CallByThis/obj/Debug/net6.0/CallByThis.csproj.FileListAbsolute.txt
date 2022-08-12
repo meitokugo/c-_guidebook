@@ -1,0 +1,15 @@
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.csproj.AssemblyReference.cache
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.GeneratedMSBuildEditorConfig.editorconfig
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.AssemblyInfoInputs.cache
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.AssemblyInfo.cs
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.csproj.CoreCompileInputs.cache
+F:\github_file\c#_guidebook\CallByThis\bin\Debug\net6.0\CallByThis.exe
+F:\github_file\c#_guidebook\CallByThis\bin\Debug\net6.0\CallByThis.deps.json
+F:\github_file\c#_guidebook\CallByThis\bin\Debug\net6.0\CallByThis.runtimeconfig.json
+F:\github_file\c#_guidebook\CallByThis\bin\Debug\net6.0\CallByThis.dll
+F:\github_file\c#_guidebook\CallByThis\bin\Debug\net6.0\CallByThis.pdb
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.dll
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\refint\CallByThis.dll
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.pdb
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\CallByThis.genruntimeconfig.cache
+F:\github_file\c#_guidebook\CallByThis\obj\Debug\net6.0\ref\CallByThis.dll
