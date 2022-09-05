@@ -1,0 +1,15 @@
+F:\github_file\c#_guidebook\InstanceAndArray\bin\Debug\net6.0\InstanceAndArray.exe
+F:\github_file\c#_guidebook\InstanceAndArray\bin\Debug\net6.0\InstanceAndArray.deps.json
+F:\github_file\c#_guidebook\InstanceAndArray\bin\Debug\net6.0\InstanceAndArray.runtimeconfig.json
+F:\github_file\c#_guidebook\InstanceAndArray\bin\Debug\net6.0\InstanceAndArray.dll
+F:\github_file\c#_guidebook\InstanceAndArray\bin\Debug\net6.0\InstanceAndArray.pdb
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.csproj.AssemblyReference.cache
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.AssemblyInfoInputs.cache
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.AssemblyInfo.cs
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.csproj.CoreCompileInputs.cache
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.dll
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\refint\InstanceAndArray.dll
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.pdb
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\InstanceAndArray.genruntimeconfig.cache
+F:\github_file\c#_guidebook\InstanceAndArray\obj\Debug\net6.0\ref\InstanceAndArray.dll
