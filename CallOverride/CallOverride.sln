@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallOverride", "CallOverride.csproj", "{FB0E8625-698C-4323-9471-69E09E325B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "..\Interface\Interface.csproj", "{801329AA-E593-440D-9AF0-2C0A80751614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0E8625-698C-4323-9471-69E09E325B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0E8625-698C-4323-9471-69E09E325B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0E8625-698C-4323-9471-69E09E325B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0E8625-698C-4323-9471-69E09E325B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801329AA-E593-440D-9AF0-2C0A80751614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801329AA-E593-440D-9AF0-2C0A80751614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801329AA-E593-440D-9AF0-2C0A80751614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801329AA-E593-440D-9AF0-2C0A80751614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18567277-3AE6-40CB-89FA-5EA094AA492D}
+	EndGlobalSection
+EndGlobal

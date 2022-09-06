@@ -1,0 +1,15 @@
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+F:\github_file\c#_guidebook\Interface\bin\Debug\net6.0\Interface.exe
+F:\github_file\c#_guidebook\Interface\bin\Debug\net6.0\Interface.deps.json
+F:\github_file\c#_guidebook\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+F:\github_file\c#_guidebook\Interface\bin\Debug\net6.0\Interface.dll
+F:\github_file\c#_guidebook\Interface\bin\Debug\net6.0\Interface.pdb
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.dll
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\refint\Interface.dll
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.pdb
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+F:\github_file\c#_guidebook\Interface\obj\Debug\net6.0\ref\Interface.dll
