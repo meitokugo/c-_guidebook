@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BattleGame"
   ],
+  "SelectedNode": "\\BattleGame\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
