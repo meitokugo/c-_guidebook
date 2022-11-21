@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\bin\Debug\net6.0-windows\TryCatch.exe
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\bin\Debug\net6.0-windows\TryCatch.deps.json
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\bin\Debug\net6.0-windows\TryCatch.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\bin\Debug\net6.0-windows\TryCatch.dll
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\bin\Debug\net6.0-windows\TryCatch.pdb
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.Form1.resources
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.dll
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\refint\TryCatch.dll
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.pdb
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\TryCatch.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\TryCatch\TryCatch\obj\Debug\net6.0-windows\ref\TryCatch.dll
