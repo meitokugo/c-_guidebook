@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\bin\Debug\net6.0-windows\calender.exe
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\bin\Debug\net6.0-windows\calender.deps.json
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\bin\Debug\net6.0-windows\calender.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\bin\Debug\net6.0-windows\calender.dll
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\bin\Debug\net6.0-windows\calender.pdb
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.Form1.resources
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.dll
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\refint\calender.dll
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.pdb
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\calender.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\c-_guidebook\calender\obj\Debug\net6.0-windows\ref\calender.dll

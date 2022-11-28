@@ -13,4 +13,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Csちゃん
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\USER\source\repos\c-_guidebook\Csちゃん\
+=======
+build_property.ProjectDir = C:\Users\USER\Documents\GitHub\c-_guidebook\Csちゃん\
+>>>>>>> 9775e182b17f85424b0112bb269740eac97f48e8

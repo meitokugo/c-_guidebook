@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatch", "TryCatch\TryCatch.csproj", "{BA77DB09-9EC8-4E6A-B658-3C84DE0AC4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calender", "..\calender\calender.csproj", "{D032C9FF-8518-46F5-980F-9E99F663E20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA77DB09-9EC8-4E6A-B658-3C84DE0AC4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA77DB09-9EC8-4E6A-B658-3C84DE0AC4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA77DB09-9EC8-4E6A-B658-3C84DE0AC4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA77DB09-9EC8-4E6A-B658-3C84DE0AC4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D032C9FF-8518-46F5-980F-9E99F663E20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D032C9FF-8518-46F5-980F-9E99F663E20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D032C9FF-8518-46F5-980F-9E99F663E20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D032C9FF-8518-46F5-980F-9E99F663E20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EF333E5-A1C6-408C-87DE-35F332B85F0C}
+	EndGlobalSection
+EndGlobal
